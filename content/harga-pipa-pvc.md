@@ -6,170 +6,23 @@ layout: "single"
 description: "Daftar harga pipa PVC Rucika, Vinilon, Pralon, Intilon, dll yang diupdate secara rutin dari distributor pipa PVC terpercaya."
 ---
 
-### Harga Pipa PVC
+## Harga Pipa PVC Terbaru 2019
 
-<p class="is-size-1">Tasdf</p>
+### Pipa PVC Rucika Standard (Wavin) AW/D 
+{{< partial "kontak-button" >}}
+{{< partial "harga-pipa-pvc/rucika-std-aw-d" >}}
 
-**The quick brown fox jumps over the lazy dog.**
 
-asdf
-asdf
-asdf
-asdf
-asdf
+### Pipa PVC Rucika JIS VP/VU
+{{< partial "kontak-button" >}}
+{{< partial "harga-pipa-pvc/rucika-jis-vp-vu" >}}
 
-asdf
 
-asdf
+### Pipa PVC Intilon AW/D
+{{< partial "kontak-button" >}}
+{{< partial "harga-pipa-pvc/intilon-std-aw-d" >}}
 
-asdf
 
-asdf
-
-asdf
-
-asdf
-
-asdf
-asdf
-asdf
-asdf
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-asdf
-asdf
-asdf
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-asdf
-asdf
-asdf
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-asdf
-asdf
-asdf
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-asdf
-asdf
-asdf
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-asdf
-asdf
-asdf
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-asdf
-asdf
-asdf
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-asdf
-asdf
-asdf
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
+### Pipa PVC Intilon JIS VP/VU
+{{< partial "kontak-button" >}}
+{{< partial "harga-pipa-pvc/intilon-jis-vp-vu" >}}
