@@ -5,4 +5,7 @@ draft: false
 layout: "single"
 description: "Daftar harga sambungan pipa PPR seperti elbow, tee, socket, watermur ppr, flange dan lain-lain."
 ---
-
+## Harga Fitting Pipa PPR Rucika Green (Wavin Tigris)
+### Update Terbaru 2019
+{{< partial "kontak-button" >}}
+{{< partial "harga-fitting-ppr/rucika-list" >}}
