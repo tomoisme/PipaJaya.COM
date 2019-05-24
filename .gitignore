@@ -12,7 +12,10 @@ firebase-debug.log*
 # public folder
 **/public/
 */public/
+*/public
+**/public
 public/
+public/*
 public/*/
 public/**/
 
