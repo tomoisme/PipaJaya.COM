@@ -13,6 +13,8 @@ firebase-debug.log*
 **/public/
 */public/
 public/
+public/*/
+public/**/
 
 # Firebase config
 
