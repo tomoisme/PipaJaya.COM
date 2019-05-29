@@ -1,0 +1,45 @@
+{{ partial "header" . }}
+<style>
+    .bg-img {
+        background-image: url({{ .Site.BaseURL }}/img/homepage.jpg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-color: #999;
+
+    }
+</style>
+
+<section class="hero is-medium">
+    <div class="bg-img">
+        <div class="hero-body">
+            <div class="container">
+                <!-- 
+                                <div class="tile ">
+                                    <figure class="image">
+                                        <img src="{{ .Site.BaseURL }}/img/homepage.jpg">
+                                    </figure>
+                                </div> 
+                            -->
+
+                <h1 class="title">
+                    Hero title
+                </h1>
+                <h2 class="subtitle">
+                    Hero subtitle
+                </h2>
+                <!-- 
+                            <h1 class="title">
+                                Hero title
+                            </h1>
+                            <h2 class="subtitle">
+                                Hero subtitle
+                            </h2>
+                             -->
+            </div>
+        </div>
+    </div>
+</section>
+
+{{ partial "footer" . }}
