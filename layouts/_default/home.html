@@ -1,13 +1,15 @@
 {{ partial "header" . }}
 <style>
     .bg-img {
-        background-image: url({{ .Site.BaseURL }}/img/homepage.jpg);
+        background-image: url('{{ .Site.BaseURL }}/img/homepage-light.jpg');
         background-position: center center;
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover;
-        background-color: #999;
+    }
 
+    .title, .subtitle {
+        text-align: center;
     }
 </style>
 
@@ -24,19 +26,16 @@
                             -->
 
                 <h1 class="title">
-                    Hero title
+                    Distributor Pipa PVC, HDPE dan PPR
                 </h1>
                 <h2 class="subtitle">
-                    Hero subtitle
+                    Beli pipa PVC Rucika/Vinilon/Intilon Disini.
                 </h2>
-                <!-- 
-                            <h1 class="title">
-                                Hero title
-                            </h1>
-                            <h2 class="subtitle">
-                                Hero subtitle
-                            </h2>
-                             -->
+                <p class="subtitle">
+                    <a href="{{.Site.BaseURL}}/harga-pipa-pvc" class="button">Cek Harga Pipa PVC</a>
+                    <br><br>
+                    <a href="{{.Site.BaseURL}}/harga-pipa-ppr" class="button">Cek Harga Pipa PPR</a>
+                </p>                
             </div>
         </div>
     </div>

@@ -10,19 +10,27 @@ description: "Daftar harga pipa PVC Rucika, Vinilon, Pralon, Intilon, dll yang d
 
 ### Pipa PVC Rucika Standard (Wavin) AW/D 
 {{< partial "kontak-button" >}}
+{{<menu/ketebalan-pipa-rucika-std>}}
+
 {{< partial "harga-pipa-pvc/rucika-std-aw-d" >}}
 
 
 ### Pipa PVC Rucika JIS VP/VU
 {{< partial "kontak-button" >}}
+{{<menu/ketebalan-pipa-rucika-jis>}}
+
 {{< partial "harga-pipa-pvc/rucika-jis-vp-vu" >}}
 
 
 ### Pipa PVC Intilon AW/D
 {{< partial "kontak-button" >}}
+{{<menu/ketebalan-pipa-intilon-std>}}
+
 {{< partial "harga-pipa-pvc/intilon-std-aw-d" >}}
 
 
 ### Pipa PVC Intilon JIS VP/VU
 {{< partial "kontak-button" >}}
+{{<menu/ketebalan-pipa-intilon-jis>}}
+
 {{< partial "harga-pipa-pvc/intilon-jis-vp-vu" >}}
