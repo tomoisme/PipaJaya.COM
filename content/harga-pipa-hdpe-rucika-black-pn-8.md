@@ -2,7 +2,7 @@
 title: "Harga Pipa HDPE Rucika Black PN 8"
 date: 2019-07-16T06:21:48+07:00
 draft: false
-layout: "single"
+layout: "single-yuda"
 description: "Daftar harga pipa HDPE Rucika Black PN 8 Terbaru. Dapatkan harga pipa HDPE terbaik dari distributor pipa HDPE Jakarta"
 ---
 

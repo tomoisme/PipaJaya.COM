@@ -2,7 +2,7 @@
 title: "Harga Pipa HDPE Rucika Black PN 10"
 date: 2019-07-16T06:22:04+07:00
 draft: false
-layout: "single"
+layout: "single-yuda"
 description: "Daftar harga pipa HDPE Rucika Black PN 10. Dapatkan kebutuhan pipa HDPE dengan harga terbaik hanya di PipaJaya"
 ---
 
