@@ -5,6 +5,17 @@
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
+    ],
+    "redirects": [{
+      // Returns a permanent redirect to "/pipa-besi-galvanis-baja-blacksteel" for requests to "/pipa-besi" (but not "/foo/**")
+      "source": "/pipa-besi",
+      "destination": "/pipa-besi-galvanis-baja-blacksteel",
+      "type": 301
+    }, {
+      "source": "/harga-pipa-besi",
+      "destination": "/harga-pipa-besi-galvanis-blacksteel-hitam",
+      "type": 301
+    }
     ]
   }
 }
