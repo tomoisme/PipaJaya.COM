@@ -1,0 +1,38 @@
+{{ partial "header" . }}
+<style>
+    .bg-img {
+        background-image: url('{{ .Site.BaseURL }}/img/homepage-light.jpg');
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+
+    .title, .subtitle {
+        text-align: center;
+    }
+</style>
+
+<section class="hero is-medium">
+    <div class="bg-img">
+        <div class="hero-body">
+            <div class="container">
+                <h1 class="title">
+                    Error 404!
+                </h1>
+                <h2 class="subtitle">
+                    Halaman tidak ditemukan.
+                </h2>
+                <p class="subtitle">
+                    Silahkan kunjungi halaman lainnya, atau langsung aja kunjungi halaman harga di bawah ini:
+                    
+                    <a href="{{.Site.BaseURL}}/harga-pipa-pvc" class="button">Cek Harga Pipa PVC</a>
+                    <br><br>
+                    <a href="{{.Site.BaseURL}}/harga-pipa-ppr" class="button">Cek Harga Pipa PPR</a>
+                </p>                
+            </div>
+        </div>
+    </div>
+</section>
+
+{{ partial "footer" . }}
