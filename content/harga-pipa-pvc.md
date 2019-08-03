@@ -34,3 +34,5 @@ description: "Daftar harga pipa PVC Rucika, Vinilon, Pralon, Intilon, dll yang d
 {{<menu/ketebalan-pipa-intilon-jis>}}
 
 {{< partial "harga-pipa-pvc/intilon-jis-vp-vu" >}}
+
+<a href="../harga-pipa-pvc-signature" class="button is-black">Harga Pipa PVC Signature</a>
