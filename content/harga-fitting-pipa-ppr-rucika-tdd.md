@@ -8,5 +8,5 @@ description: ""
 
 ## Harga Fitting Pipa PPR Rucika
 ### Tee Drat Dalam
-{{< partial "kontak-button" >}}
+{{<kontak-button>}}
 {{< partial "harga-fitting-ppr/tdd" >}}

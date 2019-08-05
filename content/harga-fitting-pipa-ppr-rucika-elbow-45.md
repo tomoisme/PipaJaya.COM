@@ -8,5 +8,5 @@ description: ""
 
 ## Harga Fitting Pipa PPR Rucika
 ### Elbow 45&deg;
-{{< partial "kontak-button" >}}
+{{<kontak-button>}}
 {{< partial "harga-fitting-ppr/elbow-45" >}}

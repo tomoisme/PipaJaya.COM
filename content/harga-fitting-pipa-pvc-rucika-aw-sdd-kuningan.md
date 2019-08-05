@@ -8,5 +8,5 @@ description: ""
 
 ## Harga Fitting PVC Rucika AW 
 ### Socket Drat Dalam (SDD) Kuningan
-{{< partial "kontak-button" >}}
+{{<kontak-button>}}
 {{< partial "harga-fitting-pvc/rucika-aw-sdd-mi" >}}

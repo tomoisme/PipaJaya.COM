@@ -8,5 +8,5 @@ description: ""
 
 ## Harga Fitting PVC Rucika AW 
 ### Tee Drat Dalam
-{{< partial "kontak-button" >}}
+{{<kontak-button>}}
 {{< partial "harga-fitting-pvc/rucika-aw-tdd" >}}

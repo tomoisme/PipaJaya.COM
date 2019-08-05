@@ -8,6 +8,6 @@ description: "Daftar harga sambungan pipa PVC Rucika tipe AW dan D. Elbow/knee, 
 
 ## Harga Fitting PVC Rucika Terbaru 2019
 
-{{< partial "kontak-button" >}}
+{{<kontak-button>}}
 {{< partial "harga-fitting-pvc/rucika-list" >}}
 

@@ -9,6 +9,6 @@ description: "Daftar harga pipa PVC murah merk Signature dengan kualitas yang be
 ## Harga Pipa PVC Terbaru 2019
 
 ### Pipa PVC Signature AW/D 
-{{< partial "kontak-button-yuda" >}}
+{{<kontak-button-yuda>}}
 
 {{< partial "harga-pipa-pvc/signature-aw-d" >}}

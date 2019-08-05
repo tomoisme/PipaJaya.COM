@@ -8,5 +8,5 @@ description: "Daftar harga pipa HDPE terbaru 2019. Temukan harga pipa HDPE Vinil
 
 ## Harga Pipa HDPE Terbaru 2019
 
-{{< partial "kontak-button" >}}
+{{<kontak-button>}}
 {{< partial "harga-pipa-hdpe/list" >}}

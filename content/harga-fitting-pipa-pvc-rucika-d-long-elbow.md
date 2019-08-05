@@ -8,5 +8,5 @@ description: ""
 
 ## Harga Fitting PVC Rucika D
 ### Long Elbow
-{{< partial "kontak-button" >}}
+{{<kontak-button>}}
 {{< partial "harga-fitting-pvc/rucika-d-long-elbow" >}}

@@ -8,5 +8,5 @@ description: "Daftar harga pipa HDPE Vinilon PN 8/SDR 21/S 10 untuk proyek perpi
 
 ## Harga Pipa HDPE Vinilon PN 8
 ### Update harga terbaru 2019
-{{< partial "kontak-button" >}}
+{{<kontak-button>}}
 {{< partial "harga-pipa-hdpe/vinilon-pn-8" >}}

@@ -8,5 +8,5 @@ description: ""
 
 ## Harga Fitting Pipa PPR Rucika
 ### Sock Drat Dalam
-{{< partial "kontak-button" >}}
+{{<kontak-button>}}
 {{< partial "harga-fitting-ppr/sdd" >}}

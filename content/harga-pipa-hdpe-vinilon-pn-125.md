@@ -8,5 +8,5 @@ description: "Daftar harga pipa HDPE Vinilon PN 12.5/SDR 13.6/S 6.3 untuk memban
 
 ## Harga Pipa HDPE Vinilon PN 12.5
 ### Update harga terbaru 2019
-{{< partial "kontak-button" >}}
+{{<kontak-button>}}
 {{< partial "harga-pipa-hdpe/vinilon-pn-125" >}}

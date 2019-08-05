@@ -8,5 +8,5 @@ description: "Daftar harga pipa HDPE Vinilon PN 16/SDR 11/S 5 untuk pengisian RA
 
 ## Harga Pipa HDPE Vinilon PN 16
 ### Update harga terbaru 2019
-{{< partial "kontak-button" >}}
+{{<kontak-button>}}
 {{< partial "harga-pipa-hdpe/vinilon-pn-16" >}}

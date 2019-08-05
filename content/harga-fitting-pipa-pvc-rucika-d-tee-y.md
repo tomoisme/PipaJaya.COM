@@ -8,5 +8,5 @@ description: ""
 
 ## Harga Fitting PVC Rucika D
 ### Tee Y/Large Radius Tee
-{{< partial "kontak-button" >}}
+{{<kontak-button>}}
 {{< partial "harga-fitting-pvc/rucika-d-tee-y" >}}

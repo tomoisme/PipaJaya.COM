@@ -9,5 +9,20 @@ description: "Jual pipa PPR Rucika Green (Wavin Tigris) komplit dengan sambungan
 ## Harga Pipa PPR Terbaru 2019
 ### Pipa PPR Rucika Green (Wavin Tigris)
 
-{{< partial "kontak-button" >}}
-{{< partial "harga-pipa-ppr/rucika-green" >}}
+{{<kontak-button>}}
+
+**Harga yang tertera disini adalah harga per batang (4 meter)**
+  
+{{<harga-pipa-ppr/rucika-green-pn10>}}
+
+{{<kontak-button>}}
+
+**Harga yang tertera disini adalah harga per batang (4 meter)**
+  
+{{<harga-pipa-ppr/rucika-green-pn16>}}
+
+{{<kontak-button>}}
+
+**Harga yang tertera disini adalah harga per batang (4 meter)**
+  
+{{<harga-pipa-ppr/rucika-green-pn20>}}

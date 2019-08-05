@@ -7,5 +7,5 @@ description: "Daftar harga sambungan pipa PPR seperti elbow, tee, socket, waterm
 ---
 ## Harga Fitting Pipa PPR Rucika Green (Wavin Tigris)
 ### Update Terbaru 2019
-{{< partial "kontak-button" >}}
+{{<kontak-button>}}
 {{< partial "harga-fitting-ppr/rucika-list" >}}

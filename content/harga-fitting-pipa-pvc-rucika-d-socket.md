@@ -8,5 +8,5 @@ description: ""
 
 ## Harga Fitting PVC Rucika D
 ### Socket
-{{< partial "kontak-button" >}}
+{{<kontak-button>}}
 {{< partial "harga-fitting-pvc/rucika-d-socket" >}}

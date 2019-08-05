@@ -9,5 +9,5 @@ description: ""
 
 ## Harga Pipa HDPE Rucika Black PN 6.3
 ### Update harga terbaru 2019
-{{< partial "kontak-button-yuda" >}}
+{{<kontak-button-yuda>}}
 {{< partial "harga-pipa-hdpe/rucika-pn-63" >}}
