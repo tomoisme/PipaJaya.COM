@@ -12,12 +12,16 @@ description: "Daftar harga pipa PVC Rucika, Vinilon, Pralon, Intilon, dll yang d
 {{<kontak-button>}}
 {{<menu/ketebalan-pipa-rucika-std>}}
 
+**Harga pipa PVC yang tertera disini adalah harga per batang. 1 batang = 4 meter**
+
 {{< partial "harga-pipa-pvc/rucika-std-aw-d" >}}
 
 
 ### Pipa PVC Rucika JIS VP/VU
 {{<kontak-button>}}
 {{<menu/ketebalan-pipa-rucika-jis>}}
+
+**Harga pipa PVC yang tertera disini adalah harga per batang. 1 batang = 4 meter**
 
 {{< partial "harga-pipa-pvc/rucika-jis-vp-vu" >}}
 
@@ -26,12 +30,16 @@ description: "Daftar harga pipa PVC Rucika, Vinilon, Pralon, Intilon, dll yang d
 {{<kontak-button>}}
 {{<menu/ketebalan-pipa-intilon-std>}}
 
+**Harga pipa PVC yang tertera disini adalah harga per batang. 1 batang = 4 meter**
+
 {{< partial "harga-pipa-pvc/intilon-std-aw-d" >}}
 
 
 ### Pipa PVC Intilon JIS VP/VU
 {{<kontak-button>}}
 {{<menu/ketebalan-pipa-intilon-jis>}}
+
+**Harga pipa PVC yang tertera disini adalah harga per batang. 1 batang = 4 meter**
 
 {{< partial "harga-pipa-pvc/intilon-jis-vp-vu" >}}
 
