@@ -2,7 +2,7 @@
 title: "Harga Fitting Pipa PPR Rucika Tee Drat Dalam"
 date: 2019-05-19T22:51:57+07:00
 draft: false
-layout: "single"
+layout: "single-yuda"
 description: ""
 ---
 

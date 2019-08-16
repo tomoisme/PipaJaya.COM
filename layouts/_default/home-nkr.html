@@ -1,0 +1,44 @@
+{{ partial "header-yuda" . }}
+<style>
+    .bg-img {
+        background-image: url('{{ .Site.BaseURL }}/img/homepage-light.jpg');
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+
+    .title, .subtitle {
+        text-align: center;
+    }
+</style>
+
+<section class="hero is-medium">
+    <div class="bg-img">
+        <div class="hero-body">
+            <div class="container">
+                <!-- 
+                                <div class="tile ">
+                                    <figure class="image">
+                                        <img src="{{ .Site.BaseURL }}/img/homepage.jpg">
+                                    </figure>
+                                </div> 
+                            -->
+
+                <h1 class="title">
+                    Distributor Pipa PVC, HDPE dan PPR
+                </h1>
+                <h2 class="subtitle">
+                    Beli pipa PVC Rucika/Vinilon/Intilon Disini.
+                </h2>
+                <p class="subtitle">
+                    <a href="{{.Site.BaseURL}}/harga-pipa-pvc" class="button">Cek Harga Pipa PVC</a>
+                    <br><br>
+                    <a href="{{.Site.BaseURL}}/harga-pipa-ppr" class="button">Cek Harga Pipa PPR</a>
+                </p>                
+            </div>
+        </div>
+    </div>
+</section>
+
+{{ partial "footer-yuda" . }}
