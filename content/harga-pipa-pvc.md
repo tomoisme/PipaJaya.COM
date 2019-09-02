@@ -9,12 +9,28 @@ description: "Daftar harga pipa PVC Rucika, Vinilon, Pralon, Intilon, dll yang d
 ## Harga Pipa PVC Terbaru 2019
 
 ### Pipa PVC Rucika Standard (Wavin) AW/D 
+
 {{<kontak-button>}}
+
 {{<menu/ketebalan-pipa-rucika-std>}}
 
 **Harga pipa PVC yang tertera disini adalah harga per batang. 1 batang = 4 meter**
 
 {{< partial "harga-pipa-pvc/rucika-std-aw-d" >}}
+
+---
+
+### Pipa PVC Pralon
+
+<a href="../harga-pipa-pvc-pralon" class="button is-black">Harga Pipa PVC Pralon</a>
+
+---
+
+### Pipa PVC Signature
+
+<a href="../harga-pipa-pvc-signature" class="button is-black">Harga Pipa PVC Signature</a>
+
+---
 
 
 ### Pipa PVC Rucika JIS VP/VU
@@ -42,5 +58,3 @@ description: "Daftar harga pipa PVC Rucika, Vinilon, Pralon, Intilon, dll yang d
 **Harga pipa PVC yang tertera disini adalah harga per batang. 1 batang = 4 meter**
 
 {{< partial "harga-pipa-pvc/intilon-jis-vp-vu" >}}
-
-<a href="../harga-pipa-pvc-signature" class="button is-black">Harga Pipa PVC Signature</a>
