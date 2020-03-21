@@ -8,7 +8,7 @@ description: "Daftar harga fitting pipa HDPE tipe butt fusion PN 10, PN 16 dan P
 
 ### Harga Fitting HDPE Butt Fusion
 
-### Update Terbaru 2019
+### Update Terbaru 2020
 
 #### HQ Butt Fusion/Butt Welded - Injection Moulding
 

@@ -1,12 +1,12 @@
 ---
-title: "Harga Pipa PPR Terbaru 2019"
+title: "Harga Pipa PPR Terbaru 2020"
 date: 2019-05-17T22:52:39+07:00
 draft: false
 layout: "single"
 description: "Jual pipa PPR Rucika Green (Wavin Tigris) komplit dengan sambungan knee, tee, sock, reducer dan lain-lain."
 ---
 
-## Harga Pipa PPR Terbaru 2019
+## Harga Pipa PPR Terbaru 2020
 ### Pipa PPR Rucika Green (Wavin Tigris)
 
 {{<kontak-button>}}

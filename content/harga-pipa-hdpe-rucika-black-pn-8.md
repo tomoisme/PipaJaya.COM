@@ -8,6 +8,6 @@ description: "Daftar harga pipa HDPE Rucika Black PN 8 Terbaru. Dapatkan harga p
 
 
 ## Harga Pipa HDPE Rucika Black PN 8
-### Update harga terbaru 2019
+### Update harga terbaru 2020
 {{<kontak-button-yuda>}}
 {{< partial "harga-pipa-hdpe/rucika-pn-8" >}}
