@@ -7,6 +7,6 @@ description: "Daftar harga pipa HDPE Rucika Black PN 10. Dapatkan kebutuhan pipa
 ---
 
 ## Harga Pipa HDPE Rucika Black PN 10
-### Update harga terbaru 2019
+### Update harga terbaru 2020
 {{<kontak-button-yuda>}}
 {{< partial "harga-pipa-hdpe/rucika-pn-10" >}}

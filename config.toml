@@ -3,4 +3,8 @@ languageCode = "id-ID"
 title = "Distributor Pipa PVC, HDPE, PPR"
 assetDir = "static"
 
+<<<<<<< HEAD
 disableKinds = ["taxonomy", "taxonomyTerm"]
+=======
+disableKinds = ["taxonomy", "taxonomyTerm"]
+>>>>>>> 24afea0b0ada44b396781bfd881c1f8a15d680bc

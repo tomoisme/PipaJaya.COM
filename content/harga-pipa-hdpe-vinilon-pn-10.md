@@ -7,6 +7,6 @@ description: "Daftar harga pipa HDPE Vinilon PN 10/SDR 17/S 8 untuk isi RAB proy
 ---
 
 ## Harga Pipa HDPE Vinilon PN 10
-### Update harga terbaru 2019
+### Update harga terbaru 2020
 {{<kontak-button>}}
 {{< partial "harga-pipa-hdpe/vinilon-pn-10" >}}

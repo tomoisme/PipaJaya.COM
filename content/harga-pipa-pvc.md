@@ -1,12 +1,12 @@
 ---
-title: "Harga Pipa PVC Terbaru 2019 Diupdate Secara Rutin"
+title: "Harga Pipa PVC Terbaru 2020 Diupdate Secara Rutin"
 date: 2019-05-17T22:52:07+07:00
 draft: False
 layout: "single"
 description: "Daftar harga pipa PVC Rucika, Vinilon, Pralon, Intilon, dll yang diupdate secara rutin dari distributor pipa PVC terpercaya."
 ---
 
-## Harga Pipa PVC Terbaru 2019
+## Harga Pipa PVC Terbaru 2020
 
 ### Pipa PVC Rucika Standard (Wavin) AW/D 
 

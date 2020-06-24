@@ -7,8 +7,7 @@ description: "Info harga pipa AC termurah se-Indonesia dan paling update. Tersed
 ---
 
 ### Harga Pipa AC Terbaru
-
-#### Update 2019
+#### Update 2020
 
 {{< kontak-button-yuda >}}
 
