@@ -2,3 +2,5 @@ baseURL = "https://www.pipajaya.com"
 languageCode = "id-ID"
 title = "Distributor Pipa PVC, HDPE, PPR"
 assetDir = "static"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
