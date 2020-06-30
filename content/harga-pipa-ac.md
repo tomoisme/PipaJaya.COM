@@ -9,10 +9,6 @@ description: "Info harga pipa AC termurah se-Indonesia dan paling update. Tersed
 ### Harga Pipa AC Terbaru
 #### Update 2020
 
-{{<kontak-button-yuda>}}
+{{< kontak-button-yuda >}}
 
-### Pipa PVC Signature
-
-Pipa PVC murah untuk jalur air buangan AC.
-
-{{< partial "harga-pipa-pvc/signature-aw-d" >}}
+{{< harga-pipa-logam/pipa-ac-denji >}}
