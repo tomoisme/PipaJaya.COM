@@ -8,7 +8,7 @@ description: "Mau beli pipa Paralon? Ya Pipa PVC Pralon. Lihat daftar harga pipa
 
 ## Harga Pipa PVC Pralon
 
-### Update Harga Terbaru 2019
+### Update Harga Terbaru 2020
 
 ### Harga Pipa PVC Pralon AW/D
 

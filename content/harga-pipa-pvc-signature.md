@@ -6,7 +6,7 @@ layout: "single-yuda"
 description: "Daftar harga pipa PVC murah merk Signature dengan kualitas yang bersaing. Butuh pipa PVC murah, pakai pipa PVC Signature."
 ---
 
-## Harga Pipa PVC Terbaru 2019
+## Harga Pipa PVC Terbaru 2020
 
 ### Pipa PVC Signature AW/D 
 
