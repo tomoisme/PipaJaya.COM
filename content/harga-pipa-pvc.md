@@ -1,12 +1,12 @@
 ---
-title: "Harga Pipa PVC Terbaru 2020 Diupdate Secara Rutin"
+title: "Harga Pipa PVC Terbaru 2021 - Rucika, Vinilon, Intilon"
 date: 2019-05-17T22:52:07+07:00
 draft: False
 layout: "single"
 description: "Daftar harga pipa PVC Rucika, Vinilon, Pralon, Intilon, dll yang diupdate secara rutin dari distributor pipa PVC terpercaya."
 ---
 
-## Harga Pipa PVC Terbaru 2020
+## Harga Pipa PVC Terbaru 2021
 
 ### Pipa PVC Rucika Standard (Wavin) AW/D 
 
@@ -20,18 +20,6 @@ description: "Daftar harga pipa PVC Rucika, Vinilon, Pralon, Intilon, dll yang d
 
 ---
 
-### Pipa PVC Pralon
-
-<a href="../harga-pipa-pvc-pralon" class="button is-black">Harga Pipa PVC Pralon</a>
-
----
-
-### Pipa PVC Signature
-
-<a href="../harga-pipa-pvc-signature" class="button is-black">Harga Pipa PVC Signature</a>
-
----
-
 
 ### Pipa PVC Rucika JIS VP/VU
 {{<kontak-button>}}
@@ -40,6 +28,15 @@ description: "Daftar harga pipa PVC Rucika, Vinilon, Pralon, Intilon, dll yang d
 **Harga pipa PVC yang tertera disini adalah harga per batang. 1 batang = 4 meter**
 
 {{< partial "harga-pipa-pvc/rucika-jis-vp-vu" >}}
+
+---
+
+
+### Pipa PVC Signature
+
+<a href="../harga-pipa-pvc-signature" class="button is-black">Harga Pipa PVC Signature</a>
+
+---
 
 
 ### Pipa PVC Intilon AW/D
