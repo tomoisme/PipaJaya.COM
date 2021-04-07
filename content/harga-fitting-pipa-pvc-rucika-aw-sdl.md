@@ -7,6 +7,7 @@ description: ""
 ---
 
 ## Harga Fitting PVC Rucika AW 
-### Sock Drat Luar
+### Sock Drat Luar / Valve Socket
+
 {{<kontak-button>}}
 {{< partial "harga-fitting-pvc/rucika-aw-sdl" >}}

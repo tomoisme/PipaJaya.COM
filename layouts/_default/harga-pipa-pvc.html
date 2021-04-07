@@ -1,0 +1,48 @@
+{{ partial "header" . }}
+
+<div class="wrap-bg">
+    <div class="container">
+        <div class="post-heading-center section-title mb-60">
+            <h2>Harga Pipa PVC Terbaru {{now.Format "2006"}}</h2>
+        </div>
+        <div class="row mb-60">
+            <div class="col-md-6 col-sm-12 mb-60">
+                <div class="text-center">
+                    <h3>Pipa PVC Rucika Standard</h3>
+                    {{partial "kontak" .}}
+                    {{partial "harga-pipa-pvc/rucika-std-aw-d" .}}
+                    <a href="{{.Site.BaseURL}}/ketebalan-pipa-pvc-rucika-standard" class="btn btn-primary btn-block">Tabel Ketebalan <br> Pipa PVC Rucika Standard</a>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-12">
+                <div class="text-center">
+                    <h3>Pipa PVC Rucika JIS</h3>
+                    {{partial "kontak" .}}
+                    {{partial "harga-pipa-pvc/rucika-jis-vp-vu" .}}
+                    <a href="{{.Site.BaseURL}}/ketebalan-pipa-pvc-rucika-jis" class="btn btn-primary btn-block">Tabel Ketebalan <br> Pipa PVC Rucika JIS</a>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 col-sm-12 mb-60">
+                <div class="text-center">
+                    <h3>Pipa PVC Intilon Standard</h3>
+                    {{partial "kontak" .}}
+                    {{partial "harga-pipa-pvc/intilon-std-aw-d" .}}
+                    <a href="{{.Site.BaseURL}}/ketebalan-pipa-pvc-intilon-standard" class="btn btn-primary btn-block">Tabel Ketebalan <br> Pipa PVC Intilon Standard</a>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-12">
+                <div class="text-center">
+                    <h3>Pipa PVC Intilon JIS</h3>
+                    {{partial "kontak" .}}
+                    {{partial "harga-pipa-pvc/intilon-jis-vp-vu" .}}
+                    <a href="{{.Site.BaseURL}}/ketebalan-pipa-pvc-intilon-jis" class="btn btn-primary btn-block">Tabel Ketebalan <br> Pipa PVC Intilon JIS</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+{{ partial "footer" . }}

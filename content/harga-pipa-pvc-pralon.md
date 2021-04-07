@@ -2,7 +2,7 @@
 title: "Harga Pipa PVC Pralon - Pionir Pipa PVC Di Indonesia"
 date: 2019-09-02T16:23:24+07:00
 draft: false
-layout: "single-yuda"
+layout: "single-nkr"
 description: "Mau beli pipa Paralon? Ya Pipa PVC Pralon. Lihat daftar harga pipa PVC Pralon paling lengkap, ready stock dan paling update."
 ---
 

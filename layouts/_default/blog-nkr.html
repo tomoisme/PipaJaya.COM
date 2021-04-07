@@ -1,13 +1,13 @@
 {{ partial "header-nkr" . }}
 
-<body>
-    <section class="section">
-        <div class="container">
-            <div class="column">
-                <div class="content">{{ .Content }}</div> 
+<div class="wrap-bg">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                {{ .Content }}
             </div>
         </div>
-    </section>
-</body>
+    </div>
+</div>
 
 {{ partial "footer-nkr" . }}

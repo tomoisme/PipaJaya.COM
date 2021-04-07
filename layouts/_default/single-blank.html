@@ -1,13 +1,14 @@
 {{ partial "header-blank" . }}
 
-<body>
-    <section class="section">
-        <div class="container">
-            <div class="column">
-                <div class="content has-text-centered">{{ .Content }}</div> 
+<div class="wrap-bg">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-md-12">
+                <div class="text-center">{{ .Content }}</div> 
             </div>
-        </div>
-    </section>
-</body>
+        </div>        
+    </div>
+</div>
+
 
 {{ partial "footer-blank" . }}

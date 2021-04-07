@@ -7,7 +7,7 @@ description: "Jual pipa besi dan pipa galvanis termurah, pengiriman tercepat, ha
 ---
 
 ## Harga Pipa Besi Dan Pipa Galvanis
-### Update Terbaru 2020
+### Update Terbaru {{<year-now>}}
 
 **Note: Harga dapat berubah sewaktu-waktu tanpa pemberitahuan sebelumnya**
 

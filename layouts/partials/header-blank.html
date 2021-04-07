@@ -1,18 +1,73 @@
 <!DOCTYPE html>
-<html class="has-navbar-fixed-top">
+<html lang="en">
 
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="{{ .Description }}" />
-    
-    <title>{{ .Title }}</title>
-
-    <link rel="shortcut icon" href="{{ .Site.BaseURL }}/favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/bulma.min.css">
-    <!-- <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script> -->
+    <!-- Metas Basic -->
+    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+    <meta name="description" content="{{.Description}}" />
+    <meta name="author" content="Jasa pembuatan website KontraktorWeb" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <!-- Title -->
+    <title>{{.Title}}</title>
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="{{.Site.BaseURL}}/images/favicon.png" type="image/x-icon">
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" href="{{.Site.BaseURL}}/css/bootstrap.min.css">
+    <!-- owl carousel theme default CSS file -->
+    <link rel="stylesheet" href="{{.Site.BaseURL}}/css/owl.theme.default.min.css">
+    <!-- owl carousel CSS file -->
+    <link rel="stylesheet" href="{{.Site.BaseURL}}/css/owl.carousel.min.css">
+    <!-- Main Custom CSS -->
+    <link rel="stylesheet" href="{{.Site.BaseURL}}/css/main.css">
+    <!-- Slick  -->
+    <link rel="stylesheet" href="{{.Site.BaseURL}}/css/slick.css">
+    <!-- Font Awesome  -->
+    <link rel="stylesheet" href="{{.Site.BaseURL}}/css/fontawesome.min.css">
+    <!-- jQuery Fancybox  -->
+    <link rel="stylesheet" href="{{.Site.BaseURL}}/css/jquery.fancybox.css">
+    <!-- Magnific Popup core CSS file -->
+    <link rel="stylesheet" href="{{.Site.BaseURL}}/css/magnific-popup.css">
 </head>
 
 <body>
+    <!-- header area start -->
+    <header id="header" class="transparent-header">
+        
+        <!-- #navigation start -->
+        <nav class="navbar navbar-default navbar-expand-md navbar-light" id="navigation" data-offset-top="1">
+            <!-- .container -->
+            <div class="container">
+                <!-- Logo and Menu -->
+                <div class="navbar-header">
+                    <div class="navbar-brand"><a href="{{.Site.BaseURL}}"><img
+                                src="{{.Site.BaseURL}}/images/logo-pipajaya.png" alt="Logo PipaJaya" /></a></div>
+                    <!-- site logo -->
+                </div>
+                <!-- Menu Toogle -->
+                <div class="burger-icon">
+                    <div class="bar1"></div>
+                    <div class="bar2"></div>
+                    <div class="bar3"></div>
+                </div>
+                <div class="collapse navbar-collapse " id="navbarCollapse">
+                    <ul class="nav navbar-nav ml-auto">
+                        <!-- Menu Link -->
+                        <li>
+                            <a href="{{.Site.BaseURL}}/harga-pipa-pvc">Harga Pipa PVC</a>
+                        </li>
+                        <li><a href="{{.Site.BaseURL}}/harga-fitting-pipa-pvc-rucika">Harga Fitting PVC Rucika</a></li>
+                        <li><a href="{{.Site.BaseURL}}/harga-pipa-ppr">Harga Pipa PPR</a></li>
+                        <li><a href="{{.Site.BaseURL}}/harga-fitting-pipa-ppr-wavin-tigris">Harga Fitting PPR Rucika</a></li>
+                    </ul>
+                    
+                </div>
+                <!-- Menu Toogle end -->
+            </div>
+            <!-- .container end -->
+        </nav>
+        <!-- #navigation end -->
+    </header>
+    <!-- end header area -->
 
-{{ partial "navbar-blank" . }}
+    <main>
+        <div class="headerspace-small"></div>

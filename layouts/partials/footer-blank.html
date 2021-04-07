@@ -1,51 +1,69 @@
-<footer class="footer">
+</main>
+
+<hr>
+
+<!-- #footer area start -->
+<footer id="footer">    
+    <!-- #footer bottom start -->
     <div class="container">
-        <div class="column content">
-            <p>&copy; 2020 PipaJaya.COM - Distributor Pipa PVC, HDPE dan PPR.</p>
-            <p>
-                <a href="{{ .Site.BaseURL }}/blog">Blog</a> -
-                <a href="{{ .Site.BaseURL }}/sitemap.xml">Sitemap</a>
-            </p>
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="copyright text-center">
+                    <p>
+                        © 2014-{{now.Format "2006"}} PipaJaya, distributor pipa PVC, HDPE dan PP-R. Dibuat dan dipelihara
+                        oleh <a href="https://kontraktorweb.com">jasa pembuatan website</a> KontraktorWeb.
+                        <br>
+                        <a href="{{.Site.BaseURL}}/sitemap.xml">Peta Situs</a> &bull;
+                        <a href="{{.Site.BaseURL}}/kebijakan-privasi">Kebijakan Privasi</a> &bull;
+                        <a href="{{.Site.BaseURL}}/persyaratan-layanan">Persyaratan Layanan</a> 
+                    </p>
+                    
+                </div>
+            </div>
         </div>
+
+        <!-- to top -->
+        <div class="cd-top">Top</div>
+        <div class="cursor"></div>
+        <div class="cursor2"></div>
+
     </div>
+    <!-- #footer bottom end -->
 </footer>
+<!-- #footer area end -->
 
-<script>
-    document.addEventListener('DOMContentLoaded', () => {
+<!-- JavaScript File -->
+<!-- jQuery -->
+<script src='{{.Site.BaseURL}}/js/jquery-3.4.1.min.js'></script>
+<!-- Main -->
+<script src='{{.Site.BaseURL}}/js/main.js'></script>
+<!-- Bootstrap -->
+<script src='{{.Site.BaseURL}}/js/bootstrap.min.js'></script>
+<!-- Slick -->
+<script src='{{.Site.BaseURL}}/js/slick.min.js'></script>
+<!-- Fancybox -->
+<script src='{{.Site.BaseURL}}/js/jquery.fancybox.pack.js'></script>
+<!-- Magnific Popup core JS file -->
+<script src="js/jquery.magnific-popup.min.js"></script>
+<!-- Waypoints -->
+<script src='{{.Site.BaseURL}}/js/waypoints.min.js'></script>
+<!-- Counterup -->
+<script src='{{.Site.BaseURL}}/js/jquery.counterup.min.js'></script>
+<!-- owl carousel -->
+<script src='{{.Site.BaseURL}}/js/owl.carousel.min.js'></script>
+<!-- Cursor -->
+<script src='{{.Site.BaseURL}}/js/cursor.js'></script>
 
-        // Get all "navbar-burger" elements
-        const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
-
-        // Check if there are any navbar burgers
-        if ($navbarBurgers.length > 0) {
-
-            // Add a click event on each of them
-            $navbarBurgers.forEach(el => {
-                el.addEventListener('click', () => {
-
-                    // Get the target from the "data-target" attribute
-                    const target = el.dataset.target;
-                    const $target = document.getElementById(target);
-
-                    // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
-                    el.classList.toggle('is-active');
-                    $target.classList.toggle('is-active');
-
-                });
-            });
-        }
-
-    });
-</script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-8774212-27"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
-  gtag('config', 'UA-8774212-27');
+    gtag('config', 'UA-8774212-27');
 </script>
+
 </body>
 
 </html>

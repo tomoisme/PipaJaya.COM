@@ -1,44 +1,31 @@
 {{ partial "header" . }}
-<style>
-    .bg-img {
-        background-image: url('{{ .Site.BaseURL }}/img/homepage-light.jpg');
-        background-position: center center;
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-size: cover;
-    }
 
-    .title, .subtitle {
-        text-align: center;
-    }
-</style>
+<div class="headerspace"></div>
 
-<section class="hero is-medium">
-    <div class="bg-img">
-        <div class="hero-body">
-            <div class="container">
-                <!-- 
-                                <div class="tile ">
-                                    <figure class="image">
-                                        <img src="{{ .Site.BaseURL }}/img/homepage.jpg">
-                                    </figure>
-                                </div> 
-                            -->
-
-                <h1 class="title">
-                    Distributor Pipa PVC, HDPE dan PPR
-                </h1>
-                <h2 class="subtitle">
-                    Beli pipa PVC Rucika/Vinilon/Intilon Disini.
-                </h2>
-                <p class="subtitle">
-                    <a href="{{.Site.BaseURL}}/harga-pipa-pvc" class="button">Cek Harga Pipa PVC</a>
-                    <br><br>
-                    <a href="{{.Site.BaseURL}}/harga-pipa-ppr" class="button">Cek Harga Pipa PPR</a>
-                </p>                
+<div id="why-us" class="">
+    <div class="row align-items-center">
+        <div class="col-xs-12 col-sm-12 col-md-5 col-xl-6 col-lg-5 services-detail-why pipa-pvc min-height750">
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-7 col-xl-6 col-lg-7 wrap-padding text-left">
+            <div class="width400s">
+                <span class="welcome">Jual Pipa PVC &amp; Pipa PP-R Rucika</span>
+                <div class="section-title with-p">
+                    <div>
+                        <h1>10+ Tahun Berpengalaman</h1>
+                        <h2>Supply Pipa PVC Dan PPR</h2>
+                    </div>
+                </div>
+                <p>
+                    Butuh pipa PVC untuk proyek anda? Atau pipa PPR untuk perpipaan air panas? Tanyakan langsung sama sales kami!
+                </p>
+                <div class="btn-section mt-50">
+                    <a href="{{.Site.BaseURL}}/harga-pipa-pvc" class="color-two btn-custom">Lihat Harga Pipa PVC <i class="fas fa-arrow-right"></i></a>
+                    <a href="https://api.whatsapp.com/send?phone=6283873544537" class="join-button"><i class="fab fa-telegram-plane"></i> Hubungi Sales</a>
+                </div>
             </div>
         </div>
     </div>
-</section>
+</div>
+
 
 {{ partial "footer" . }}

@@ -6,8 +6,9 @@ layout: "single"
 description: "Daftar harga sambungan pipa PVC Rucika tipe AW dan D. Elbow/knee, tee, socket, tee y, sock drat, dan lain-lain."
 ---
 
-## Harga Fitting PVC Rucika Terbaru 2020
+## Harga Fitting PVC Rucika Terbaru {{<year-now>}}
 
 {{<kontak-button>}}
+
 {{< partial "harga-fitting-pvc/rucika-list" >}}
 

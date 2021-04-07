@@ -4,3 +4,8 @@ title = "Distributor Pipa PVC, HDPE, PPR"
 assetDir = "static"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
